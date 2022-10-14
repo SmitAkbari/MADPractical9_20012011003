@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Smit/AndroidStudioProjects/MADPractical9_20012011003/app/src/main/res/drawable/backshape.xml" value="0.1085" />
         <entry key="..\:/Users/Smit/AndroidStudioProjects/MADPractical9_20012011003/app/src/main/res/drawable/shape.xml" value="0.1085" />
         <entry key="..\:/Users/Smit/AndroidStudioProjects/MADPractical9_20012011003/app/src/main/res/layout/activity_main.xml" value="0.10866261398176291" />
+        <entry key="..\:/Users/Smit/AndroidStudioProjects/MADPractical9_20012011003/app/src/main/res/layout/sms_item_view.xml" value="0.25" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/MADPractical9_20012011003/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/MADPractical9_20012011003/app/src/main/res/layout/sms_item_view.xml" value="0.20416666666666666" />
       </map>

@@ -14,6 +14,7 @@
         android:lines="2"
         android:padding="20dp"
         app:autoSizeTextType="uniform"
+        android:background="@drawable/backshape"
         app:layout_constraintBottom_toTopOf="@id/l1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -46,6 +47,8 @@
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/phoneNo"
+                    android:drawableRight="@drawable/ic_baseline_phone_android_24"
+                    android:drawableTint="@color/purple_200"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" />
 
@@ -61,6 +64,8 @@
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/msg"
+                    android:drawableRight="@drawable/ic_baseline_message_24"
+                    android:drawableTint="@color/purple_200"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" />
 
@@ -73,6 +78,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
             android:layout_marginTop="30dp"
+            app:backgroundTint="@color/purple_200"
             android:src="@drawable/ic_baseline_send_24"
             app:fabSize="normal" />
 
